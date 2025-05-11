@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamjaiswal69&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamjaiswal69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamjaiswal69" alt="sakshamjaiswal69" /></a> </p>
+
 
 - 🌱 I’m currently learning **C, JAvA ScRIpT, WeB DeVeloPmEnT, AnD MoRe**
 
