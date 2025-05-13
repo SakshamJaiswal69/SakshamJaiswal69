@@ -20,7 +20,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sakshamjaiswal69/Sakshamjaiswal69/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sakshamjaiswal69/Sakshamjaiswal69/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sakshamjaiswal69/Sakshamjaiswal69/output/pacman-contribution-graph-light.svg">
 </picture>
 
 ###
