@@ -12,6 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/saksham jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saksham jaiswal" height="30" width="40" /></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshamjaiswal69" alt="sakshamjaiswal69" /></a> </p>
+
 <a href="https://instagram.com/_saksham.jaiswal_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saksham.jaiswal_69" height="30" width="40" /></a>
 </p>
 
