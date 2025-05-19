@@ -1,5 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/351d83cf-e798-40e3-8bc5-3051f9f0ff33" width="190px"/><p/>
+
 
 
 <h1 align="center">Hi 👋, I'm Saksham Jaiswal</h1>
@@ -7,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshamjaiswal69&label=Profile%20views&color=0e75b6&style=flat" alt="sakshamjaiswal69" /> </p>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/351d83cf-e798-40e3-8bc5-3051f9f0ff33" width="190px"/><p/>
 
 - 🌱 I’m currently learning **C, JAvA ScRIpT, WeB DeVeloPmEnT, AnD MoRe**
 
